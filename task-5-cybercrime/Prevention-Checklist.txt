@@ -1,0 +1,16 @@
+Prevention Checklist
+
+1.  Never share your OTP, passwords, or UPI PIN with anyone.
+2.  Remember: Entering your UPI PIN always means you are sending money.
+3.  Do not accept unknown UPI collect requests.
+4.  Verify phone calls claiming to be from banks or payment apps before
+    taking action.
+5.  Enable two-factor authentication on all important accounts.
+6.  Use strong and unique passwords for different platforms.
+7.  Avoid clicking suspicious links in emails, SMS, or WhatsApp
+    messages.
+8.  Regularly update your banking and payment applications.
+9.  Immediately report cyber fraud at the National Cyber Crime Portal:
+    https://cybercrime.gov.in
+10. Call the Cyber Crime Helpline: 1930 (24x7) for urgent financial
+    fraud reporting.
